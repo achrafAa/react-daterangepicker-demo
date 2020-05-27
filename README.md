@@ -2,7 +2,7 @@
 
 Date range picker react example ( using Airbnb react-dates )
 
-Check My Blog for th tutorial [https://achrafaamri.com/](https://achrafaamri.com/)
+Check My Blog for the tutorial [achrafaamri.com/react-date-rang-picker-exemple/](https://achrafaamri.com/)
 
 ## Available Scripts
 
